@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Al-pha-Helix
 - 👀 I’m interested in the natural sciences
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on the science fair!
 - 📫 How to reach me ---> alpha.helix.0831[at]gmail[dot]com
 
